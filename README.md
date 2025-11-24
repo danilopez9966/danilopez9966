@@ -40,15 +40,6 @@ Actualmente cursando el **Curso de Especialización en Big Data & IA**, combinan
 
 ---
 
-## 🧩 Proyectos Destacados
-### 🐾 **Gestión de Protectora de Animales (Laravel + Livewire + MySQL)**
-Sistema completo para gestionar:
-- Mascotas
-- Adopciones
-- Donaciones
-- Eventos  
-Con autenticación, roles y panel de administración.
-
 ### 🎮 **Plataforma de Juegos con Python y Web**
 Proyecto final donde integro juegos en Python dentro de una web estilo "Steam".
 
@@ -73,8 +64,8 @@ Backend completo con:
 ---
 
 ## 📫 Contacto
-📧 **Email:** *tuemail@ejemplo.com*  
-💼 **LinkedIn:** *linkedin.com/in/tuusuario*  
+📧 **Email:** *danidemurcia@gmail.com*  
+💼 **LinkedIn:** *[linkedin.com/in/tuusuario](https://www.linkedin.com/in/daniel-lopez-arcos-b11168303/)*  
 🌐 **Portfolio (pronto):** *tu-portfolio.com*
 
 ---
