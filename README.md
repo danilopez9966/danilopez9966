@@ -11,7 +11,7 @@ Actualmente cursando el **Curso de Especialización en Big Data & IA**, combinan
 
 #### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite" />
 </p>
 
 #### 🛠️ Backend
@@ -21,12 +21,12 @@ Actualmente cursando el **Curso de Especialización en Big Data & IA**, combinan
 
 #### 🗄️ Bases de Datos (Mi Especialidad)
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 #### 📦 DevOps / Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,windows" />
 </p>
 
 ---
