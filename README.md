@@ -21,7 +21,7 @@ Actualmente cursando el **Curso de Especialización en Big Data & IA**, combinan
 
 #### 🗄️ Bases de Datos (Mi Especialidad)
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb" />
 </p>
 
 #### 📦 DevOps / Herramientas
