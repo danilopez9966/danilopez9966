@@ -65,11 +65,7 @@ Backend completo con:
 
 ## 📫 Contacto
 📧 **Email:** *danidemurcia@gmail.com*  
-💼 **LinkedIn:** *[linkedin.com/in/tuusuario](https://www.linkedin.com/in/daniel-lopez-arcos-b11168303/)*  
-🌐 **Portfolio (pronto):** *tu-portfolio.com*
+💼 **LinkedIn:** *[Mi_perfil](https://www.linkedin.com/in/daniel-lopez-arcos-b11168303/)*  
 
 ---
-
-### 💬 *"El código bien estructurado es una declaración de intenciones."*
-
 </div>
