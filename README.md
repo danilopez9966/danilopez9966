@@ -16,17 +16,17 @@ Actualmente cursando el **Curso de Especialización en Big Data & IA**, combinan
 
 #### 🛠️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,java,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,java" />
 </p>
 
 #### 🗄️ Bases de Datos (Mi Especialidad)
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
 #### 📦 DevOps / Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,windows,aws,anaconda" />
 </p>
 
 ---
