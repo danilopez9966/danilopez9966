@@ -26,7 +26,7 @@ Actualmente cursando el **Curso de Especialización en Big Data & IA**, combinan
 
 #### 📦 DevOps / Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,windows,aws,anaconda" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,windows,aws,anaconda,azure" />
 </p>
 
 ---
