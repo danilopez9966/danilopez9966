@@ -16,7 +16,7 @@ Actualmente cursando el **Curso de Especialización en Big Data & IA**, combinan
 
 #### 🛠️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,java,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,java,nodejs" />
 </p>
 
 #### 🗄️ Bases de Datos (Mi Especialidad)
