@@ -30,35 +30,22 @@ Aspiring Database Engineer | SQL, MySQL, PostgreSQL, Query Optimization, Laravel
 
 ---
 
-## 📂 Sobre mí
-- 💾 Especializado en **SQL avanzado, triggers, procedimientos, optimización de consultas e índices**.  
-- 🔧 Apasionado por el **backend robusto**, API REST y arquitecturas bien estructuradas.  
-- 🧠 Enfocado en convertirme en **Administrador de Bases de Datos / Backend Developer**.  
-- 📚 Actualmente profundizando en **PostgreSQL, seguridad, rendimiento y Big Data**.  
-- ⚽ En mi tiempo libre, disfruto del fútbol, el anime y trabajar en proyectos personales.
+## What I focus on
+
+- SQL and relational database design
+- Query optimization and indexing
+- Stored procedures, triggers and transactions
+- MySQL and PostgreSQL
+- Laravel backend development
+- ETL, Big Data and data pipelines
 
 ---
 
-### 🎮 **Plataforma de Juegos con Python y Web**
-Proyecto final donde integro juegos en Python dentro de una web estilo "Steam".
+## Career Goal
 
-### 🎫 **Sistema de Tickets (Laravel + React)**
-Backend completo con:
-- JWT
-- Spatie Roles/Permissions  
-- APIResponse  
-- Panel React consumiendo el backend
+My goal is to grow as a Database Engineer / Backend Developer, building efficient, secure and well-designed data-driven systems.
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DanielLopez&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLopez&layout=compact&theme=tokyonight" height="165" />
-
-</div>
 
 ---
 
