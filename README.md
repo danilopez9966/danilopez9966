@@ -2,8 +2,7 @@
   
 # 👨‍💻 Daniel López — Backend Developer | SQL Specialist | Web Applications Developer  
 
-Apasionado del **backend**, la **administración de bases de datos** y la creación de aplicaciones web eficientes, seguras y escalables.  
-Actualmente cursando el **Curso de Especialización en Big Data & IA**, combinando mi background en desarrollo con mi interés por los datos y el rendimiento.
+Aspiring Database Engineer | SQL, MySQL, PostgreSQL, Query Optimization, Laravel, ETL & Big Data
 
 ---
 
